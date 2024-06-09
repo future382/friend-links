@@ -1,10 +1,10 @@
 [
  {
-    "url": "https://lihaoyu.cn", // 链接
-    "avatar": "https://blog-api.lihaoyu.cn/avatar", // 头像
-    "name": "Big_Cake", // 昵称
-    "color": "#F2BC57", // 主题色
-    "blog": "晓雨杂记", // 站点名称
-    "desc": "也许我们会分别，但我们将永远不会忘记彼此。" // 一句话介绍
+    "url": "https://lihaoyu.cn", 
+    "avatar": "https://blog-api.lihaoyu.cn/avatar", 
+    "name": "Big_Cake", 
+    "color": "#F2BC57", 
+    "blog": "晓雨杂记", 
+    "desc": "也许我们会分别，但我们将永远不会忘记彼此。" 
 }
 ]
